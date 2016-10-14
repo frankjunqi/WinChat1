@@ -9,13 +9,12 @@ import com.ty.winchat.R;
 import com.ty.winchat.listener.UDPVoiceListener;
 
 /**
- * ÓïÒôÁÄÌì
  * @author wj
  * @creation 2013-5-7
  */
 public class VoiceChat extends Base{
 
-	private String chatterIP;//¼ÇÂ¼µ±Ç°ÓÃ»§ip
+	private String chatterIP;
 	private UDPVoiceListener voiceListener;
 
 	@Override
@@ -30,7 +29,7 @@ public class VoiceChat extends Base{
 		} catch (IOException e) {
 			e.printStackTrace();
 //				finish();
-			showToast("±§Ç¸£¬ÓïÒôÁÄÌìÆ÷´ò¿ªÊ§°Ü");
+			showToast("Voice Chat");
 		}
 	}
 
