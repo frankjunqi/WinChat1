@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\room_chat.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\room_chat.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\head.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\head.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_chat1.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\video_chat1.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_listview_group_item.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\main_listview_group_item.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_my_listview_item.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\chat_my_listview_item.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_listview_child_item.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\main_listview_child_item.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\voice_chat.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\voice_chat.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\meaasge_chat.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\meaasge_chat.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\message_chat_more.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\message_chat_more.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_operate_dialog_item.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\file_operate_dialog_item.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\set.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_chat.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\video_chat.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_choose.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\file_choose.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_dialog.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\confirm_dialog.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_listview_item.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\file_listview_item.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_other_listview_item.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\chat_other_listview_item.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\chat_listview_file_item.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\chat_listview_file_item.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\room_chat_icon_item.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\room_chat_icon_item.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\face_dialog.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\face_dialog.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\face_dialog_gridview_item.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\face_dialog_gridview_item.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_operate_dialog.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\layout\\file_operate_dialog.xml"
+    }
+]

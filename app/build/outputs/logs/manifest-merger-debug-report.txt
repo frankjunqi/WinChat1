@@ -1,0 +1,134 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:1:1-57:12
+	package
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:2:5-29
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:6:5-44
+	android:targetSdkVersion
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:6:15-41
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WinChat1\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:10:5-84
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:10:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:13:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:14:5-75
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:14:22-72
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:15:22-64
+uses-feature#android.hardware.camera
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:17:5-60
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:17:19-57
+uses-permission#android.permission.CAMERA
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:18:5-65
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:18:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:20:22-76
+application
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:23:5-55:19
+	android:label
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:27:9-41
+	android:allowBackup
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:25:9-35
+	android:icon
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:26:9-38
+	android:theme
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:24:9-43
+activity#com.ty.winchat.ui.Main
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:29:9-34:20
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:29:19-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.ty.winchat.ui.MessageChat
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:37:9-39:57
+	android:windowSoftInputMode
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:39:13-54
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:38:13-43
+activity#com.ty.winchat.ui.Set
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:40:9-42:57
+	android:windowSoftInputMode
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:41:13-35
+activity#com.ty.winchat.ui.VoiceChat
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:43:9-50
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:43:19-47
+activity#com.ty.winchat.ui.VideoChat
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:44:9-50
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:44:19-47
+activity#com.ty.winchat.ui.FileChoose
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:45:9-51
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:45:19-48
+activity#com.ty.winchat.ui.RoomChat
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:46:9-48:57
+	android:windowSoftInputMode
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:48:13-54
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:47:13-40
+service#com.ty.winchat.service.ChatService
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:50:9-56
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:50:18-53
+receiver#com.ty.winchat.service.HeartBeatBroaadcastReceiver
+ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:52:9-87
+	android:name
+		ADDED from D:\WinChat1\app\src\main\AndroidManifest.xml:52:19-84

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_pressed_bg.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\dialog_pressed_bg.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\top_bg.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\top_bg.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\dialog_bg.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\dialog_bg.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_edt_bg.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\chat_edt_bg.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_other_bg.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\chat_other_bg.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\wait_dialog_bg.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\wait_dialog_bg.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_my_bg.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\chat_my_bg.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_open_arrow.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\list_open_arrow.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\list_close_arrow.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\list_close_arrow.9.png"
+    }
+]

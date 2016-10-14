@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_zip.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_zip.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f060.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f060.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_txt.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_txt.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f091.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f091.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f027.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f027.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_confirm_img_line.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\user_confirm_img_line.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_face.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\chat_face.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f044.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f044.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f012.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f012.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f057.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f057.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f030.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f030.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f075.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f075.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f026.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f026.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f061.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f061.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f042.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f042.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f014.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f014.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f031.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f031.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_more_pressed.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\chat_more_pressed.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f025.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f025.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f028.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f028.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f009.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f009.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f093.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f093.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f090.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f090.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f039.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f039.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f088.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f088.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f058.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f058.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f074.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f074.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f069.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f069.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f077.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f077.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f038.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f038.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f010.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f010.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f063.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f063.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f101.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f101.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f001.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f001.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f007.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f007.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\send_file.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\send_file.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_selected.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\dot_selected.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f086.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f086.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f041.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f041.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\video_chat_bg.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\video_chat_bg.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_face_pressed.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\chat_face_pressed.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f029.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f029.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f023.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f023.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f080.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f080.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\head_bg.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\head_bg.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f064.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f064.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f045.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f045.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f000.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f000.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bg.jpg",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\chat_bg.jpg"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f048.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f048.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f095.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f095.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\arrow.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\arrow.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f092.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f092.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_word.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_word.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_avi.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_avi.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f067.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f067.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f076.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f076.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_default.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_default.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f070.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f070.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f073.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f073.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_xls.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_xls.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f051.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f051.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f089.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f089.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f054.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f054.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\all_people_icon.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\all_people_icon.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f016.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f016.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f019.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f019.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f013.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f013.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_ppt.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_ppt.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\num.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\num.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f032.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f032.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f021.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f021.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f066.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f066.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f035.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f035.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f097.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f097.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f052.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f052.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f049.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f049.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f004.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f004.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f104.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f104.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f018.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f018.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f083.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f083.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f022.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f022.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f034.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f034.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f079.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f079.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f098.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f098.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f053.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f053.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_jpg.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_jpg.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f017.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f017.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f003.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f003.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_more.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\chat_more.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dot_unselected.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\dot_unselected.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f006.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f006.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f020.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f020.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f036.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f036.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f099.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f099.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f105.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f105.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f096.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f096.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f102.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f102.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f047.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f047.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f085.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f085.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f082.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f082.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f024.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f024.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f071.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f071.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f055.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f055.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f046.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f046.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_mp3.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_mp3.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_item_dialog.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_item_dialog.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f094.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f094.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line3.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\line3.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f072.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f072.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f033.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f033.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f015.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f015.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f068.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f068.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f037.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f037.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user_confirm_img.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\user_confirm_img.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f050.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f050.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f011.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f011.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_item_pressed_dialog.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_item_pressed_dialog.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f100.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f100.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\more.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f084.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f084.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f081.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f081.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f087.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f087.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f103.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f103.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f056.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f056.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f059.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f059.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f106.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f106.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_directory.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_directory.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_title_dialog.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_title_dialog.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f062.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f062.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f065.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f065.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f078.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f078.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_pdf.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\file_pdf.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f005.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f005.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f043.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f043.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f002.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f002.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f040.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f040.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\f008.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable-hdpi\\f008.png"
+    }
+]

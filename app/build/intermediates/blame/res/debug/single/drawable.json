@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\file_operate_dialog_selector.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\file_operate_dialog_selector.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remove_yellow_bg.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\remove_yellow_bg.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\expression_bg.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\expression_bg.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more_selector.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\more_selector.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_open_selector.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\listview_open_selector.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bt_selector.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\dialog_bt_selector.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_bottom.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\live_bottom.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\face_selector.xml",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\face_selector.xml"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_top.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\live_top.9.png"
+    },
+    {
+        "merged": "D:\\WinChat1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_center.9.png",
+        "source": "D:\\WinChat1\\app\\src\\main\\res\\drawable\\live_center.9.png"
+    }
+]

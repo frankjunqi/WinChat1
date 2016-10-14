@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="gray">#999999</color>
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="chat_bg_margin_frame">60dip</dimen>
+    <dimen name="chat_bg_margin_img">5dip</dimen>
+    <dimen name="chat_file_img_width">60dp</dimen>
+    <dimen name="chat_txt_size">18sp</dimen>
+    <dimen name="file_img_margin">10dp</dimen>
+    <dimen name="file_img_width">45dp</dimen>
+    <dimen name="file_name_size">18sp</dimen>
+    <string name="app_name">Wifi-Chat</string>
+    <string name="menu_settings">Settings</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>
